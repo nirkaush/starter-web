@@ -12,6 +12,8 @@ No idea bro
 
 ### How to contribute
 
+Please fork this repo and pull
+
 ## Deployment
 
 XXXYXYXYXYXYXYXYXYXYX
