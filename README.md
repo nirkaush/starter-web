@@ -18,4 +18,8 @@ XXXYXYXYXYXYXYXYXYXYX
 
 #### INTRODUCTION
 
-this is example to show idifferent 
+this is example to show idifferent
+
+###### Copyright
+
+2022 Git training 
