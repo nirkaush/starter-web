@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Niraj Kaushik niraj.lp670@gmail.com
 
 # THANKS
 
