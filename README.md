@@ -8,6 +8,8 @@ Adding a line for rebasing example
 
 more changes from myfeature branch too
 
+Ater stash shit
+
 ## Purpose
 
 Sample website with plenty of files for demos
