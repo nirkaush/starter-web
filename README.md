@@ -28,4 +28,4 @@ this is example to show idifferent
 
 ###### Copyright
 
-2022 Git training 
+2022 Git training. All rights reserved
