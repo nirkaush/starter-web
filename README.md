@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-this is simple website
+this is simple website.
+
+Adding a line for rebasing example
 
 ## Purpose
 
